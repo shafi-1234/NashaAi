@@ -17,7 +17,7 @@ It is designed for simplicity, performance, and **offline use** — running **on
 
 Install Ollama on your system.
 Pull your desired DeepSeek model (example: deepseek-llm):
-*)Run in cmd prompt
+*)Run in cmd prompt : 
 ollama pull deepseek-llm
 
 ---
